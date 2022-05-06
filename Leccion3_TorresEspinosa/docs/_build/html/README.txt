@@ -1,0 +1,1 @@
+Eliminado el folder '_static' por motivos de peso, utilizaba el theme 'sphinx_rtd_theme'.
